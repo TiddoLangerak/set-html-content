@@ -1,6 +1,6 @@
 {
   "name": "@tiddo/set-html-content",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "author": "Tiddo Langerak <tiddolangerak@gmail.com> (https://github.com/TiddoLangerak/)",
   "license": "MIT",
