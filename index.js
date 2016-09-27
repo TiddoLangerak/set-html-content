@@ -11,6 +11,6 @@ export default function setHtmlContent(el, content, opts) {
 		} else {
 			clone.appendChild(content);
 		}
-		return morphdom(el, content, opts);
+		return morphdom(el, clone, opts);
 	}
 }
